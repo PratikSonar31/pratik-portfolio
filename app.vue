@@ -9,6 +9,9 @@
     <!-- Work Experience Section -->
     <WorkExperienceSection />
 
+    <!-- Projects Section -->    
+    <ProjectsSection />
+
     <!-- Skills Section -->
     <SkillsSection />
 
@@ -27,6 +30,7 @@
 import HeroSection from "./components/HeroSection.vue";
 import AboutSection from "./components/AboutSection.vue";
 import WorkExperienceSection from "./components/WorkExperienceSection.vue";
+import ProjectsSection from './components/ProjectsSection.vue'
 import SkillsSection from "./components/SkillsSection.vue";
 </script>
 
